@@ -1,0 +1,8 @@
+{
+  "required": true,
+  "minVersion": "0.8.3-GTNH",
+  "package": "bougy.linuxkeyfix.mixins.early",
+  "refmap": "mixins.linuxkeyfix.refmap.json",
+  "target": "@env(DEFAULT)",
+  "compatibilityLevel": "JAVA_8"
+}

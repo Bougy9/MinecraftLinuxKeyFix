@@ -3,19 +3,15 @@
 	"modList": [{
 		"modid": "${modId}",
 		"name": "${modName}",
-		"description": "An example mod for Minecraft 1.7.10 with Forge focused on a stable setup.",
+		"description": "A simple minecraft 1.7.10 mod which fix non recognized keys on non american keyboard layout on linux",
 		"version": "${modVersion}",
 		"mcversion": "${minecraftVersion}",
-		"url": "https://github.com/SinTh0r4s/MyMod",
+		"url": "https://github.com/Bougy9/MinecraftLinuxKeyFix/",
 		"updateUrl": "",
-		"authorList": ["SinTho0r4s"],
+		"authorList": ["Bougy"],
 		"credits": "",
 		"logoFile": "",
 		"screenshots": [],
-		"parent": "",
-		"requiredMods": [],
 		"dependencies": [],
-		"dependants": [],
-		"useDependencyInformation": false
 	}]
 }

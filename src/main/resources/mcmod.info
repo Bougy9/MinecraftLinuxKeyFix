@@ -1,5 +1,4 @@
 {
-	"modListVersion": 2,
 	"modList": [{
 		"modid": "${modId}",
 		"name": "${modName}",

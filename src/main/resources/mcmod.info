@@ -1,5 +1,5 @@
-{
-	"modList": [{
+[
+  {
 		"modid": "${modId}",
 		"name": "${modName}",
 		"description": "A simple minecraft 1.7.10 mod which fix non recognized keys on non american keyboard layout on linux",
@@ -12,5 +12,5 @@
 		"logoFile": "",
 		"screenshots": [],
 		"dependencies": [],
-	}]
-}
+	}
+]
